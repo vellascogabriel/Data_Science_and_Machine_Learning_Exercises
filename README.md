@@ -8,8 +8,6 @@ In the folders, we have some files:
 
   -  .IPYNB file: The file with the analysis.
 
-  -  Image file: In the images we have the graphs of the analysis, classification diagrams e etc.
-
   -  CSV file: Dataset worked in the data analysis.
 
   -  Python file: The python script with the Data Analysis.
