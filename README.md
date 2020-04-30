@@ -6,9 +6,7 @@ In this repository, there are machine learning and data analysis exercises in py
 
 In the folders, we have some files:
 
-  -  IPYNB file: The IPYNB file need the Jupyter Notebook Installed.
-
-  -  HTML file: If you don't have the Jupyter Notebook, you can access the python script through the HTML file with the web browser.
+  -  .IPYNB file: The file with the analysis.
 
   -  Image file: In the images we have the graphs of the analysis, classification diagrams e etc.
 
